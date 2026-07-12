@@ -9,6 +9,9 @@ const SearchBook = () => {
             <div className="row">
                 <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                     <div className="card shadow">
+                        <div class="card-header bg-primary text-white text-center">
+                                <h3>Search Book </h3>
+                            </div>
                         <div className="card-body">
                             <div className="row g-3">
                                 <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
